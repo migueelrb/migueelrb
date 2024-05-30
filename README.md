@@ -1,9 +1,7 @@
 <head>
     <meta charset="utf-8">
-    <!-- Cargamos CSS -->
     <link rel="stylesheet" href="estilo.css">
     <style>
-        /* Estilo para los íconos debajo de la primera imagen */
         #badges img {
             width: 100px; /* Ancho fijo para los íconos */
             height: auto; /* Altura automática para mantener la proporción */
