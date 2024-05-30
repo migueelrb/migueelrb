@@ -1,106 +1,77 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Miguel Real Barrio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOM9jIk/KdS6JnOq4QiBaF7es5GqB8VjD7f2QkE2" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .header, .footer {
-            background-color: #007bff;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
-        .header img {
-            border-radius: 50%;
-            width: 100px;
-            height: 100px;
-        }
-        .content {
-            padding: 20px;
-        }
-        .content h1 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
-        .badges a img {
-            margin: 0 10px;
-        }
-        .about img {
-            width: 100%;
-            max-width: 600px;
-            height: auto;
-            border-radius: 10px;
-        }
-        .about {
-            margin: 40px 0;
-            text-align: center;
-        }
-        .skills img {
-            margin: 10px;
-            width: 50px;
-            height: 50px;
-        }
-        .footer a {
-            color: white;
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        .footer a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+¡Claro! A continuación te proporciono un ejemplo de cómo podría verse un README atractivo y profesional para tu perfil en GameHub360. Incluye imágenes, animaciones y enlaces relevantes. Puedes copiar y pegar el siguiente código en tu README, ajustando cualquier detalle según tus preferencias.
 
-<header class="header">
-    <div class="container">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Perfil">
-        <h1>Miguel Real Barrio</h1>
-        <p>Estudiante de Grado Superior de Desarrollo de Aplicaciones Multiplataforma</p>
-        <div class="badges">
-            <a href="https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-        </div>
-    </div>
-</header>
+```markdown
+# ¡Bienvenido a mi perfil en GameHub360!
 
-<div class="content container">
-    <div class="about">
-        <h2>Sobre mí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Programming GIF">
-        <p>Soy un apasionado de la programación con experiencia en múltiples lenguajes y herramientas. Actualmente, estoy cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma, donde continuo expandiendo mis conocimientos y habilidades.</p>
-    </div>
+<img src="https://example.com/imagen_computadora.jpg" alt="Computadora" width="800"/>
 
-    <h2 class="text-center">Skills y Herramientas</h2>
-    <div class="skills text-center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"/>
-    </div>
-</div>
+---
 
-<footer class="footer">
-    <div class="container">
-        <p>&copy; 2024 Miguel Real Barrio</p>
-        <div>
-            <a href="https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-        </div>
-    </div>
-</footer>
+## Sobre mí
 
-</body>
-</html>
+¡Hola! Soy Miguel Real Barrio, un apasionado estudiante de Grado Superior de Desarrollo de Aplicaciones Multiplataforma. Actualmente estoy perfeccionando mis habilidades en programación y desarrollo de aplicaciones móviles y de escritorio.
+
+```markdown
+- 🌱 Actualmente, estoy aprendiendo sobre desarrollo en múltiples plataformas.
+- 💼 Estoy buscando oportunidades de colaboración en proyectos interesantes.
+- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/).
+
+---
+
+## Habilidades
+
+### Lenguajes de Programación:
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Herramientas y Tecnologías:
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Proyectos
+
+### Proyecto 1: Aplicación de Gestión de Tareas
+- Descripción: Una aplicación móvil para la gestión eficiente de tareas diarias.
+- Tecnologías: Java, Android Studio, SQLite.
+
+### Proyecto 2: Página Web Interactiva
+- Descripción: Sitio web dinámico con funcionalidades interactivas para usuarios.
+- Tecnologías: HTML, CSS, JavaScript.
+
+---
+
+## Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/)
+
+---
+
+## Animación Destacada
+
+![Animación Programación](https://example.com/animacion_programacion.gif)
+
+---
+
+## Contacto
+
+Si estás interesado en colaborar o simplemente deseas conectar, no dudes en enviarme un mensaje a través de LinkedIn.
+
+¡Gracias por visitar mi perfil!
+
+---
+```
+
+### Notas:
+
+1. **Imágenes y Animaciones**: Reemplaza `https://example.com/imagen_computadora.jpg` y `https://example.com/animacion_programacion.gif` con las URL de las imágenes y animaciones que desees utilizar.
+2. **Escudos y Badges**: Los enlaces de badges proporcionados son ejemplos, y puedes encontrarlos en [Shields.io](https://shields.io/).
+3. **Enlaces y Proyectos**: Ajusta las descripciones y detalles de los proyectos para reflejar tu trabajo real.
+4. **Animaciones y Diseño**: Si quieres agregar animaciones más complejas o personalizadas, podrías considerar usar GIFs o enlaces a repositorios que muestren animaciones en acción.
+
+Este README debe darte una presencia profesional y atractiva en GameHub360. ¡Buena suerte con tu carrera en el desarrollo de aplicaciones!
