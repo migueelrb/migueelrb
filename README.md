@@ -6,7 +6,7 @@
 <body>
     <header id="home" class="cabeceraPagina">
             <div id="header" align="center">
-            <img src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" width="100"/>
+            <img src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" width="100"/>
         </div>
               <div align='center' id="badges">
                   <a href="https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/">
