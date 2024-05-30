@@ -1,25 +1,19 @@
 <head>
     <meta charset="utf-8">
+    <!-- Cargamos CSS -->
     <link rel="stylesheet" href="estilo.css">
-    <style>
-        #badges img {
-            width: 100px; /* Ancho fijo para los íconos */
-            height: auto; /* Altura automática para mantener la proporción */
-        }
-    </style>
 </head>
 <body>
     <header id="home" class="cabeceraPagina">
-        <div id="header" align="center">
+            <div id="header" align="center">
             <img src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" width="300"/>
         </div>
-        <div align='center' id="badges">
-            <a href="https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-            <br>
-            <img src="https://komarev.com/ghpvc/?username=migueelrb&style=flat-square&color=blue" alt=""/>
-        </div>
+              <div align='center' id="badges">
+                  <a href="https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/">
+                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                  <br>
+                  <img src="https://komarev.com/ghpvc/?username=migueelrb&style=flat-square&color=blue" alt=""/>
+             </div>
         <h1 align="center">
             Hola a todos!!
             <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
