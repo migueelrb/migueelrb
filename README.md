@@ -24,10 +24,10 @@
 
 ¡Hola, soy Miguel Real! Soy un apasionado estudiante de desarrollo de software, con un enfoque especial en la creación de aplicaciones multiplataforma. Aquí hay algunas cosas sobre mí:
 
-- 👨‍🎓 Actualmente estoy estudiando en un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
+- 👨‍🎓 Actualmente acabo de terminar un Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 - 💻 Me encanta explorar nuevas tecnologías y desafíos de programación.
 - 🔍 Siempre estoy buscando maneras de mejorar mis habilidades y aprender algo nuevo.
-- 🌱 En mi tiempo libre, disfruto programando y jugando videojuegos.
+- 🌱 En mi tiempo libre, disfruto programando y creando aplicaciones
 
 ¡No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/) para hablar sobre tecnología, proyectos interesantes o simplemente para charlar!
 
