@@ -53,6 +53,9 @@ Aquí hay algunas de las tecnologías y herramientas con las que trabajo:
 
 ## 📬 Contacto
 
-¡Siempre estoy interesado en conocer a otros desarrolladores y colaborar en proyectos emocionantes! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/) para discutir ideas o colaborar en proyectos.
+¡Siempre estoy interesado en conocer a otros desarrolladores y colaborar en proyectos emocionantes! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/miguel-real-barrio-5bb71a2a2/) para discutir ideas o colaborar en proyectos. También puedes escribirme a:
+
+📧 Correo electrónico: [mreal76760@gmail.com](mailto:mreal76760@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos tanto como yo disfruto creándolos.
+
